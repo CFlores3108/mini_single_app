@@ -1,0 +1,8 @@
+body {
+    background-color: #f8f9fa; /* Light gray background for the root */
+}
+
+.card-custom {
+    background-color: #6190c1; /* Blue color for the cards */
+    color: white; /* White text color for better contrast */
+}
